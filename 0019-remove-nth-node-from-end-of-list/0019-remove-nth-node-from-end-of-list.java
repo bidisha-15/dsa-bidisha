@@ -31,8 +31,7 @@ class Solution {
         ptr1=ptr1.next;
         pos--;
         }
-        ListNode d=ptr1.next;
-        ptr1.next=d.next;
+        ptr1.next=ptr1.next.next;
         
         return head;
     }
