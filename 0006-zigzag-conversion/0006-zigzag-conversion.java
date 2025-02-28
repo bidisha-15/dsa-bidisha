@@ -2,11 +2,11 @@ class Solution {
     public String convert(String s, int numRows) {
         int x = 1, f = 0;
         int arr[] = new int[s.length()];
+        if(numRows==1){
+               return s;}
         for (int i = 0; i < arr.length; i++) {
-            if(numRows==1){
-                arr[i]=x;
-                continue;
-            }
+        
+            
             if (x == numRows) {
                 f = 1;
             }
