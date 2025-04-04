@@ -19,8 +19,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/bidisha-15/dsa-bidisha/tree/master/0006-zigzag-conversion) |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
+| [0392-is-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
