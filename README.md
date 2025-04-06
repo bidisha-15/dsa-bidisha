@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/bidisha-15/dsa-bidisha/tree/master/0035-search-insert-position) |
 | [0198-house-robber](https://github.com/bidisha-15/dsa-bidisha/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/bidisha-15/dsa-bidisha/tree/master/0274-h-index) |
 ## Sorting
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/bidisha-15/dsa-bidisha/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
