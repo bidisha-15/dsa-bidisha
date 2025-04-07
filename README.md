@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/bidisha-15/dsa-bidisha/tree/master/0198-house-robber) |
 | [0274-h-index](https://github.com/bidisha-15/dsa-bidisha/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0300-longest-increasing-subsequence) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/bidisha-15/dsa-bidisha/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
 | ------- |
