@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/bidisha-15/dsa-bidisha/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0300-longest-increasing-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/bidisha-15/dsa-bidisha/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bidisha-15/dsa-bidisha/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Sorting
 |  |
