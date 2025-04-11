@@ -10,10 +10,9 @@ class Solution {
             String word = words[i].toLowerCase();
             boolean inFirst = true, inSecond = true, inThird = true;
             for (int j = 0; j < word.length(); j++) {
-                char ch = word.charAt(j);
-                if (first.indexOf(ch) == -1) inFirst = false;
-                if (second.indexOf(ch) == -1) inSecond = false;
-                if (third.indexOf(ch) == -1) inThird = false;
+                if (first.indexOf(word.charAt(j)) == -1) inFirst = false;
+                if (second.indexOf(word.charAt(j)) == -1) inSecond = false;
+                if (third.indexOf(word.charAt(j)) == -1) inThird = false;
             }
             if (inFirst || inSecond || inThird) {
                 temp[k++] = words[i]; 
