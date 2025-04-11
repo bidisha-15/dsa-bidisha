@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bidisha-15/dsa-bidisha/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/bidisha-15/dsa-bidisha/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/bidisha-15/dsa-bidisha/tree/master/0053-maximum-subarray) |
+| [0135-candy](https://github.com/bidisha-15/dsa-bidisha/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bidisha-15/dsa-bidisha/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0189-rotate-array) |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bidisha-15/dsa-bidisha/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/bidisha-15/dsa-bidisha/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
