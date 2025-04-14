@@ -7,9 +7,9 @@ class Solution {
                 map.put(nums[i], i);
             }
             else {
-                ele=nums[i];
+                return nums[i];
             }
         }
-        return ele;
+       return -1; 
     }
 }
