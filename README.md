@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/bidisha-15/dsa-bidisha/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/0151-reverse-words-in-a-string) |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bidisha-15/dsa-bidisha/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0392-is-subsequence) |
