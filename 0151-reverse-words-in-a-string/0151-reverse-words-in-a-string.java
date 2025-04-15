@@ -4,7 +4,7 @@ class Solution {
         String[] myArray = s.split(" ");
         String res="";
     for (int i=myArray.length-1;i>=0;i--) {
-        res=res+myArray[i].trim()+" ";
+        res=res+myArray[i]+" ";
     }
     res=res.trim();
     return res;
