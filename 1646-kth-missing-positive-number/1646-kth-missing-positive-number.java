@@ -1,22 +1,24 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
-        int miss_cnt=0;
-        int prev=0;
-        for(int i=0;i<arr.length;i++){
-            if(i==0){
-                miss_cnt+=arr[i]-1;
-                if(k<=miss_cnt){
-        return k;
-    }
+        int low=0; int high=arr.length-1;
+        int missing=0; int mid=0;
+        while(low<=high){
+            mid=(low+high)/2;
+            missing = arr[mid]-(mid+1); //curr ele - (index + 1) -> is the no. of missing numbers
+            if(missing < k)
+            {
+                low=mid+1;
             }
             else{
-                prev=miss_cnt;
-                miss_cnt+=arr[i]-arr[i-1]-1;
+                high=mid-1;
             }
-    if(k<=miss_cnt){
-        return arr[i-1]+(k-prev);
-    }
         }
-        return arr[arr.length-1]+(k-miss_cnt);
+        return high + 1 + k; //low+k; //*
     }
 }
+
+//* answer was -arr[high]+more
+// where more=k-missing
+// => arr[high] + k - {arr[high]-(high+1)}
+// => arr[high] + k - arr[high] - high + 1 
+// => high + k + 1
