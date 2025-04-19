@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/bidisha-15/dsa-bidisha/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/bidisha-15/dsa-bidisha/tree/master/0274-h-index) |
 ## Counting Sort
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/bidisha-15/dsa-bidisha/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
 | [0392-is-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bidisha-15/dsa-bidisha/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/bidisha-15/dsa-bidisha/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
