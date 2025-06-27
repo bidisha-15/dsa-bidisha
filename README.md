@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bidisha-15/dsa-bidisha/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bidisha-15/dsa-bidisha/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0142-linked-list-cycle-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/bidisha-15/dsa-bidisha/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/bidisha-15/dsa-bidisha/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0206-reverse-linked-list) |
