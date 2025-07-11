@@ -13,3 +13,7 @@ class Solution {
         return false;
     }
 }
+
+
+//pro solution
+//return n>0 && (n & (n-1)) ==0;
