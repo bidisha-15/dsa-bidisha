@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/bidisha-15/dsa-bidisha/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/bidisha-15/dsa-bidisha/tree/master/0389-find-the-difference) |
 ## Counting Sort
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/bidisha-15/dsa-bidisha/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
 ## Hash Table
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
+| [0389-find-the-difference](https://github.com/bidisha-15/dsa-bidisha/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/bidisha-15/dsa-bidisha/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/bidisha-15/dsa-bidisha/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/bidisha-15/dsa-bidisha/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Combinatorics
