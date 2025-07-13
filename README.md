@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/bidisha-15/dsa-bidisha/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bidisha-15/dsa-bidisha/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bidisha-15/dsa-bidisha/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bidisha-15/dsa-bidisha/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/bidisha-15/dsa-bidisha/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bidisha-15/dsa-bidisha/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,11 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bidisha-15/dsa-bidisha/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/bidisha-15/dsa-bidisha/tree/master/0461-hamming-distance) |
 | [1054-complement-of-base-10-integer](https://github.com/bidisha-15/dsa-bidisha/tree/master/1054-complement-of-base-10-integer) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bidisha-15/dsa-bidisha/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/bidisha-15/dsa-bidisha/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bidisha-15/dsa-bidisha/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Greedy
 |  |
 | ------- |
@@ -186,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0234-palindrome-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bidisha-15/dsa-bidisha/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/bidisha-15/dsa-bidisha/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
