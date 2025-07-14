@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bidisha-15/dsa-bidisha/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/bidisha-15/dsa-bidisha/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bidisha-15/dsa-bidisha/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/bidisha-15/dsa-bidisha/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/bidisha-15/dsa-bidisha/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/bidisha-15/dsa-bidisha/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/bidisha-15/dsa-bidisha/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/bidisha-15/dsa-bidisha/tree/master/0204-count-primes) |
