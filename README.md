@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
 | [1078-remove-outermost-parentheses](https://github.com/bidisha-15/dsa-bidisha/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/bidisha-15/dsa-bidisha/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bidisha-15/dsa-bidisha/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/bidisha-15/dsa-bidisha/tree/master/0135-candy) |
+| [2032-largest-odd-number-in-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
