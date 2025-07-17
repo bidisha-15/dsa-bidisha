@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/bidisha-15/dsa-bidisha/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/bidisha-15/dsa-bidisha/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/bidisha-15/dsa-bidisha/tree/master/0389-find-the-difference) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bidisha-15/dsa-bidisha/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/bidisha-15/dsa-bidisha/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/bidisha-15/dsa-bidisha/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
