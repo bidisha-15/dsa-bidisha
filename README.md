@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/bidisha-15/dsa-bidisha/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/bidisha-15/dsa-bidisha/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/bidisha-15/dsa-bidisha/tree/master/0451-sort-characters-by-frequency) |
 ## Counting Sort
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/bidisha-15/dsa-bidisha/tree/master/0274-h-index) |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/bidisha-15/dsa-bidisha/tree/master/0451-sort-characters-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/bidisha-15/dsa-bidisha/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/bidisha-15/dsa-bidisha/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
 | [1078-remove-outermost-parentheses](https://github.com/bidisha-15/dsa-bidisha/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/2032-largest-odd-number-in-string) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/bidisha-15/dsa-bidisha/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/bidisha-15/dsa-bidisha/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
@@ -218,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bidisha-15/dsa-bidisha/tree/master/0204-count-primes) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bidisha-15/dsa-bidisha/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/bidisha-15/dsa-bidisha/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
