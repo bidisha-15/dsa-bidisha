@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bidisha-15/dsa-bidisha/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/bidisha-15/dsa-bidisha/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/bidisha-15/dsa-bidisha/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bidisha-15/dsa-bidisha/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/bidisha-15/dsa-bidisha/tree/master/0056-merge-intervals) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/bidisha-15/dsa-bidisha/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/bidisha-15/dsa-bidisha/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/bidisha-15/dsa-bidisha/tree/master/0141-linked-list-cycle) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bidisha-15/dsa-bidisha/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/bidisha-15/dsa-bidisha/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bidisha-15/dsa-bidisha/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/bidisha-15/dsa-bidisha/tree/master/0118-pascals-triangle) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bidisha-15/dsa-bidisha/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bidisha-15/dsa-bidisha/tree/master/0496-next-greater-element-i) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/bidisha-15/dsa-bidisha/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/bidisha-15/dsa-bidisha/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0503-next-greater-element-ii) |
