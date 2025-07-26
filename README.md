@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0300-longest-increasing-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/bidisha-15/dsa-bidisha/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/bidisha-15/dsa-bidisha/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0540-single-element-in-a-sorted-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/bidisha-15/dsa-bidisha/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
 | [0389-find-the-difference](https://github.com/bidisha-15/dsa-bidisha/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/bidisha-15/dsa-bidisha/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/bidisha-15/dsa-bidisha/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
 ## Two Pointers
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/bidisha-15/dsa-bidisha/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/bidisha-15/dsa-bidisha/tree/master/1078-remove-outermost-parentheses) |
 ## Backtracking
 |  |
@@ -236,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/bidisha-15/dsa-bidisha/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
