@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0540-single-element-in-a-sorted-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/bidisha-15/dsa-bidisha/tree/master/0966-binary-subarrays-with-sum) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/bidisha-15/dsa-bidisha/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1646-kth-missing-positive-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bidisha-15/dsa-bidisha/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/bidisha-15/dsa-bidisha/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/bidisha-15/dsa-bidisha/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bidisha-15/dsa-bidisha/tree/master/0500-keyboard-row) |
+| [0966-binary-subarrays-with-sum](https://github.com/bidisha-15/dsa-bidisha/tree/master/0966-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -248,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/bidisha-15/dsa-bidisha/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0503-next-greater-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/bidisha-15/dsa-bidisha/tree/master/0966-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/bidisha-15/dsa-bidisha/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
