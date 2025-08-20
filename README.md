@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/bidisha-15/dsa-bidisha/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/bidisha-15/dsa-bidisha/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0540-single-element-in-a-sorted-array) |
@@ -261,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/bidisha-15/dsa-bidisha/tree/master/0966-binary-subarrays-with-sum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/bidisha-15/dsa-bidisha/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
