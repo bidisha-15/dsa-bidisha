@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/bidisha-15/dsa-bidisha/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/bidisha-15/dsa-bidisha/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/bidisha-15/dsa-bidisha/tree/master/0205-isomorphic-strings) |
