@@ -1,5 +1,6 @@
 class Solution {
     public int myAtoi(String s) {
+        if (s == null || s.length() == 0) return 0;
         s=s.trim();
         if (s.isEmpty()) {
             return 0;
@@ -27,6 +28,6 @@ class Solution {
             }
             i++;
         }
-        return (int) result*sign;
+        return (int)result*sign;
     }
 }
