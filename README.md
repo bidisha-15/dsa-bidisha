@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/bidisha-15/dsa-bidisha/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/bidisha-15/dsa-bidisha/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/bidisha-15/dsa-bidisha/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Sorting
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0074-search-a-2d-matrix) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/bidisha-15/dsa-bidisha/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
 |  |
 | ------- |
