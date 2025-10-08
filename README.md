@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bidisha-15/dsa-bidisha/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/bidisha-15/dsa-bidisha/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/bidisha-15/dsa-bidisha/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/bidisha-15/dsa-bidisha/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/bidisha-15/dsa-bidisha/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/bidisha-15/dsa-bidisha/tree/master/0299-bulls-and-cows) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bidisha-15/dsa-bidisha/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/bidisha-15/dsa-bidisha/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/bidisha-15/dsa-bidisha/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/bidisha-15/dsa-bidisha/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/bidisha-15/dsa-bidisha/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/bidisha-15/dsa-bidisha/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/bidisha-15/dsa-bidisha/tree/master/0287-find-the-duplicate-number) |
