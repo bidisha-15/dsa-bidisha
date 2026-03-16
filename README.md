@@ -276,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/bidisha-15/dsa-bidisha/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/bidisha-15/dsa-bidisha/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
